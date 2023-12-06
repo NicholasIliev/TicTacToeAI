@@ -30,7 +30,3 @@ python tictactoe.py
 ## Acknowledgements
 The implementation of the minimax algorithm for the unbeatable AI is based on the principles of game theory.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to contribute and enjoy the game!
