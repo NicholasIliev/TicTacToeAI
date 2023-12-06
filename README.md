@@ -12,14 +12,18 @@ This project implements a Tic Tac Toe game with player vs player (PvP) and playe
 ## Prerequisites
 - Python 3
 - Pygame module
+- Numpy Moudle
 ```bash
 pip install pygame
+```
+```bash
+pip install numpy
 ```
 
 ## How to Run
 Run the game script: 
 ```bash
-python tictactoe.py
+python3 tictactoe.py
 ```
 
 ## Game Features
@@ -29,4 +33,5 @@ python tictactoe.py
 
 ## Acknowledgements
 The implementation of the minimax algorithm for the unbeatable AI is based on the principles of game theory.
+
 
